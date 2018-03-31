@@ -1,0 +1,14 @@
+{
+"companyName": "Frankie J",
+"productName": "RFPS",
+"dataUrl": "8d5530d58c6b084ab09b9887031237c2.unityweb",
+"asmCodeUrl": "58d2c0e8f94ddce2ec45fd542f932fa3.unityweb",
+"asmMemoryUrl": "bf7c10c9f649ae86e4581efa2ea5fe76.unityweb",
+"asmFrameworkUrl": "a8543c6b005f9eb25303682cc1e8453f.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
